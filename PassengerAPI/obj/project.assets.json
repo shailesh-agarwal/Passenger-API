@@ -9015,11 +9015,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shailesh\\source\\repos\\PassengerAPI\\PassengerAPI\\PassengerAPI.csproj",
+      "projectUniqueName": "E:\\My Documents\\Cogni\\Cloud\\PassengerAPI\\PassengerAPI\\PassengerAPI.csproj",
       "projectName": "PassengerAPI",
-      "projectPath": "C:\\Users\\Shailesh\\source\\repos\\PassengerAPI\\PassengerAPI\\PassengerAPI.csproj",
+      "projectPath": "E:\\My Documents\\Cogni\\Cloud\\PassengerAPI\\PassengerAPI\\PassengerAPI.csproj",
       "packagesPath": "C:\\Users\\Shailesh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shailesh\\source\\repos\\PassengerAPI\\PassengerAPI\\obj\\",
+      "outputPath": "E:\\My Documents\\Cogni\\Cloud\\PassengerAPI\\PassengerAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

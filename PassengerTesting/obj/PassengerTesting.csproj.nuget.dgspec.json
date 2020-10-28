@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shailesh\\source\\repos\\PassengerAPI\\PassengerTesting\\PassengerTesting.csproj": {}
+    "E:\\My Documents\\Cogni\\Cloud\\PassengerAPI\\PassengerTesting\\PassengerTesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shailesh\\source\\repos\\PassengerAPI\\PassengerAPI\\PassengerAPI.csproj": {
+    "E:\\My Documents\\Cogni\\Cloud\\PassengerAPI\\PassengerAPI\\PassengerAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shailesh\\source\\repos\\PassengerAPI\\PassengerAPI\\PassengerAPI.csproj",
+        "projectUniqueName": "E:\\My Documents\\Cogni\\Cloud\\PassengerAPI\\PassengerAPI\\PassengerAPI.csproj",
         "projectName": "PassengerAPI",
-        "projectPath": "C:\\Users\\Shailesh\\source\\repos\\PassengerAPI\\PassengerAPI\\PassengerAPI.csproj",
+        "projectPath": "E:\\My Documents\\Cogni\\Cloud\\PassengerAPI\\PassengerAPI\\PassengerAPI.csproj",
         "packagesPath": "C:\\Users\\Shailesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shailesh\\source\\repos\\PassengerAPI\\PassengerAPI\\obj\\",
+        "outputPath": "E:\\My Documents\\Cogni\\Cloud\\PassengerAPI\\PassengerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\Shailesh\\source\\repos\\PassengerAPI\\PassengerTesting\\PassengerTesting.csproj": {
+    "E:\\My Documents\\Cogni\\Cloud\\PassengerAPI\\PassengerTesting\\PassengerTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shailesh\\source\\repos\\PassengerAPI\\PassengerTesting\\PassengerTesting.csproj",
+        "projectUniqueName": "E:\\My Documents\\Cogni\\Cloud\\PassengerAPI\\PassengerTesting\\PassengerTesting.csproj",
         "projectName": "PassengerTesting",
-        "projectPath": "C:\\Users\\Shailesh\\source\\repos\\PassengerAPI\\PassengerTesting\\PassengerTesting.csproj",
+        "projectPath": "E:\\My Documents\\Cogni\\Cloud\\PassengerAPI\\PassengerTesting\\PassengerTesting.csproj",
         "packagesPath": "C:\\Users\\Shailesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shailesh\\source\\repos\\PassengerAPI\\PassengerTesting\\obj\\",
+        "outputPath": "E:\\My Documents\\Cogni\\Cloud\\PassengerAPI\\PassengerTesting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -116,8 +116,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Shailesh\\source\\repos\\PassengerAPI\\PassengerAPI\\PassengerAPI.csproj": {
-                "projectPath": "C:\\Users\\Shailesh\\source\\repos\\PassengerAPI\\PassengerAPI\\PassengerAPI.csproj"
+              "E:\\My Documents\\Cogni\\Cloud\\PassengerAPI\\PassengerAPI\\PassengerAPI.csproj": {
+                "projectPath": "E:\\My Documents\\Cogni\\Cloud\\PassengerAPI\\PassengerAPI\\PassengerAPI.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EHI3nXZ5MZu/MNDU+zjnz5+2YrTWlJLlstSsAEpjHv+rFv6cS4Jb65pbt5qxLEYhpQ/H2eDefWZAUG+vDapMMQ==",
+  "dgSpecHash": "/bHXokDzzPFp2FLzMwD7jHwgj01LLkDVQbv+hpQgVoQKBxEraV6Az2I/QSONO/My+W+TdBOLseCZuSs7Cz5shw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shailesh\\source\\repos\\PassengerAPI\\PassengerAPI\\PassengerAPI.csproj",
+  "projectFilePath": "E:\\My Documents\\Cogni\\Cloud\\PassengerAPI\\PassengerAPI\\PassengerAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shailesh\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Shailesh\\.nuget\\packages\\log4net\\2.0.8\\log4net.2.0.8.nupkg.sha512",
